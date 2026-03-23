@@ -1,5 +1,13 @@
 # blackroad-siem
 
+> Security Information and Event Management system
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Security](https://github.com/BlackRoad-Security)
+
+---
+
+# blackroad-siem
+
 > Security Information and Event Management system — BlackRoad Security
 
 [![CI](https://github.com/BlackRoad-Security/blackroad-siem/actions/workflows/ci.yml/badge.svg)](https://github.com/BlackRoad-Security/blackroad-siem/actions/workflows/ci.yml)
